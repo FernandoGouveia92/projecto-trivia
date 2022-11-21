@@ -16,29 +16,14 @@ João Gustavo,
 Juliana Álvares, 
 Laís Massacesi.
 
-As redes sociais de Carla Uyemura:
+As redes sociais de [Carla Uyemura](): 
 <p/>
-Linkedin - https://www.linkedin.com/in/carla-uyemura/
+As redes sociais de [João Gustavo](https://github.com/Joaogustavo789):
 <p/>
-Github - 
-
-As redes sociais de João Gustavo:
+As redes sociais de [Juliana Álvares](https://github.com/AlvaresJu):
 <p/>
-Linkedin - https://www.linkedin.com/in/joao-gustavo-mn/
+As redes sociais de [Laís Massacesi](https://github.com/LaisMassacesi):
 <p/>
-Github - https://github.com/Joaogustavo789
-
-As redes sociais de Juliana Álvares:
-<p/>
-Linkedin - https://www.linkedin.com/in/juliana-alvares/
-<p/>
-Github - https://github.com/AlvaresJu
-
-As redes sociais de Laís Massacesi:
-<p/>
-Linkedin - https://www.linkedin.com/in/la%C3%ADs-massacesi-8b078822b/
-<p/>
-Github - https://github.com/LaisMassacesi
 
 ---
 
