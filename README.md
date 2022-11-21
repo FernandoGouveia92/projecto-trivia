@@ -25,9 +25,7 @@ As redes sociais de [Juliana Álvares](https://github.com/AlvaresJu).
 As redes sociais de [Laís Massacesi](https://github.com/LaisMassacesi).
 <br/>
 
-
 ---
-
 
 ## Rodando localmente
 
@@ -40,7 +38,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd projecto-trivia
+  cd projecto-trivia/
 ```
 
 Instale as dependências
@@ -54,8 +52,6 @@ Inicie o servidor
 ```bash
   npm start
 ```
-
-
 
 ---
 
