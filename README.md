@@ -42,7 +42,7 @@ Github - https://github.com/LaisMassacesi
 
 ---
 
-#### COMPONENTES DESENVOLVIDOS POR MIM
+#### COMPONENTES DESENVOLVIDOS PELO GRUPO
 
 Todos os arquivos dentro da pasta 'src' e 'testes' foram criados e desenvolvidos por todos os membros do grupo
 
@@ -56,7 +56,7 @@ Quaisquer outros arquivos/diretórios que fazem parte do projeto, foram providen
 
 #### TECNOLOGIAS
 
-ReactJS, CSS, HTML5, Redux, RTL, fetchAPI
+ReactJS, CSS, HTML5, Redux, RTL, fetchAPI.
 
 #### BREVE DESCRIÇÃO
 
