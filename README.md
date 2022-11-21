@@ -39,7 +39,7 @@ Quaisquer outros arquivos/diretórios que fazem parte do projeto, foram providen
 
 ---
 
-## ECNOLOGIAS
+## TECNOLOGIAS
 
 ReactJS, CSS, HTML5, Redux, RTL, fetchAPI.
 
