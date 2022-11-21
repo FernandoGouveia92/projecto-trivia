@@ -10,10 +10,10 @@ Este projeto foi desenvolvido em grupo, utilizando a library ReactJS, com Redux 
 ## MEMBROS DO GRUPO
 
 Este projeto foi desenvolvido por:
-Fernando Gouveia
-Carla Uyemura
-João Gustavo
-Juliana Álvares
+Fernando Gouveia, 
+Carla Uyemura, 
+João Gustavo, 
+Juliana Álvares, 
 Laís Massacesi
 
 As redes sociais de Carla Uyemura:
