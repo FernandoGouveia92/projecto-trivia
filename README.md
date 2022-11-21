@@ -3,7 +3,7 @@
 Neste projeto a pessoa pode jogar um jogo de Trivia e competir com outros jogadores no leaderboard. O jogador irá responder uma quantidade estabelecida de perguntas, com um tempo limite para responder. Caso o jogador falhe em selecionar uma alternativa para a pergunta proposta, e o timer encerrar, ele será redirecionado para a próxima pergunta e não pontuará nada.
 Ao responder todas as perguntas o jogador é direcionado para a parte do leaderboard, onde pode ver o seu placar e os dos outros jogadores.
 
-Este projeto foi desenvolvido em grupo, utilizando a library ReactJS, com Redux e os testes feitos em RTL. Durante seu desenvolviment, fizemos uso de metodologias ágeis como Kambam, fazendo uso da ferramenta Trello.
+Este projeto foi desenvolvido em grupo, utilizando a library ReactJS, com Redux e os testes feitos em RTL. Durante seu desenvolvimento, fizemos uso de metodologias ágeis como Kambam, fazendo uso da ferramenta Trello.
 
 ---
 
@@ -14,7 +14,7 @@ Fernando Gouveia,
 Carla Uyemura, 
 João Gustavo, 
 Juliana Álvares, 
-Laís Massacesi
+Laís Massacesi.
 
 As redes sociais de Carla Uyemura:
 <p/>
