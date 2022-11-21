@@ -34,13 +34,13 @@ As redes sociais de [Laís Massacesi](https://github.com/LaisMassacesi).
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone git@github.com:FernandoGouveia92/projecto-trivia.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd projecto-trivia
 ```
 
 Instale as dependências
