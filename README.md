@@ -60,4 +60,4 @@ ReactJS, CSS, HTML5, Redux, RTL, fetchAPI.
 
 #### BREVE DESCRIÇÃO
 
--> iniciar sessão
+-> Esta aplicação foi feita com ReactJS, onde o estado global foi manipulado com Redux e estilizado com CSS puro. Os testes foram feitos com RTL, a ferramenta nativa de testes em ReactJS
