@@ -16,7 +16,7 @@ João Gustavo,
 Juliana Álvares, 
 Laís Massacesi.
 
-As redes sociais de [Carla Uyemura](): 
+As redes sociais de [Carla Uyemura](https://github.com/CarlaUyemura): 
 <br/>
 As redes sociais de [João Gustavo](https://github.com/Joaogustavo789).
 <br/>
@@ -27,22 +27,22 @@ As redes sociais de [Laís Massacesi](https://github.com/LaisMassacesi).
 
 ---
 
-#### COMPONENTES DESENVOLVIDOS PELO GRUPO
+## COMPONENTES DESENVOLVIDOS PELO GRUPO
 
 Todos os arquivos dentro da pasta 'src' e 'testes' foram criados e desenvolvidos por todos os membros do grupo
 
 ---
 
-#### ARQUIVOS E/OU DIRETÓRIOS FEITOS PELA TRYBE
+## ARQUIVOS E/OU DIRETÓRIOS FEITOS PELA TRYBE
 
 Quaisquer outros arquivos/diretórios que fazem parte do projeto, foram providenciados pela Trybe School.
 
 ---
 
-#### TECNOLOGIAS
+## ECNOLOGIAS
 
 ReactJS, CSS, HTML5, Redux, RTL, fetchAPI.
 
-#### BREVE DESCRIÇÃO
+## BREVE DESCRIÇÃO
 
 -> Esta aplicação foi feita com ReactJS, onde o estado global foi manipulado com Redux e estilizado com CSS puro. Os testes foram feitos com RTL, a ferramenta nativa de testes em ReactJS
