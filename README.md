@@ -15,27 +15,27 @@ Laís Massacesi
 
 As redes sociais de Carla Uyemura:
 <p/>
-Linkedin - 
+Linkedin - https://www.linkedin.com/in/carla-uyemura/
 <p/>
 Github - 
 
-As redes sociais de Carla Uyemura:
+As redes sociais de João Gustavo:
 <p/>
-Linkedin - 
+Linkedin - https://www.linkedin.com/in/joao-gustavo-mn/
 <p/>
-Github - 
+Github - https://github.com/Joaogustavo789
 
-As redes sociais de Carla Uyemura:
+As redes sociais de Juliana Álvares:
 <p/>
-Linkedin - 
+Linkedin - https://www.linkedin.com/in/juliana-alvares/
 <p/>
-Github - 
+Github - https://github.com/AlvaresJu
 
-As redes sociais de Carla Uyemura:
+As redes sociais de Laís Massacesi:
 <p/>
-Linkedin - 
+Linkedin - https://www.linkedin.com/in/la%C3%ADs-massacesi-8b078822b/
 <p/>
-Github - 
+Github - https://github.com/LaisMassacesi
 
 ---
 
