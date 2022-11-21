@@ -1,21 +1,41 @@
 # PROJETO SOLAR SYSTEM
 
-O projeto Solar System foi o primeiro projeto desenvolvido usando ReactJS, enquanto estudei na Trybe. Ele é um projeto simples, voltado para a aplicação dos conceitos de containers, que o ReactJS possui.
-
-Nele, separando em componentes pai e filho, estão separados os planetas dentro do nosso sistema solar, e também as missões espaciais realizadas.
-Este projeto não faz uso de nenhuma livraria externa como Boostrap, apenas CSS puro. Não faz uso também de nenhuma outra ferramenta mais avançada e complexa como Redux e Hooks. Como mencionado, este projeto foi voltado para a prática de fundamentos de ReactJS.
+-> Iniciar
 
 ---
 
-MENSÃO ESPECIAL
+## MEMBROS DO GRUPO
 
-Gostaria de agradecer a Ronan Salvador, que é um colega de turma, na Trybe School. Ronan me auxiliou no CSS desse projeto e foi excencial para deixar a forma que eu queria.
+Este projeto foi desenvolvido por:
+Fernando Gouveia
+Carla Uyemura
+João Gustavo
+Juliana Álvares
+Laís Massacesi
 
-As redes sociais de Ronan:
+As redes sociais de Carla Uyemura:
 <p/>
-Linkedin - https://www.linkedin.com/in/ronansalvador/
+Linkedin - 
 <p/>
-Github - https://github.com/ronansalvador
+Github - 
+
+As redes sociais de Carla Uyemura:
+<p/>
+Linkedin - 
+<p/>
+Github - 
+
+As redes sociais de Carla Uyemura:
+<p/>
+Linkedin - 
+<p/>
+Github - 
+
+As redes sociais de Carla Uyemura:
+<p/>
+Linkedin - 
+<p/>
+Github - 
 
 ---
 
