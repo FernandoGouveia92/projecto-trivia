@@ -25,6 +25,38 @@ As redes sociais de [Juliana Álvares](https://github.com/AlvaresJu).
 As redes sociais de [Laís Massacesi](https://github.com/LaisMassacesi).
 <br/>
 
+
+---
+
+
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://link-para-o-projeto
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd my-project
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm start
+```
+
+
+
 ---
 
 ## COMPONENTES DESENVOLVIDOS PELO GRUPO
